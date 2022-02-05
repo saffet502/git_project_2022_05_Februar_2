@@ -6,6 +6,8 @@ public class FirstClass {
 		
 		System.out.println("Erste commit von local repository");
 		System.out.println("Zweite commit von local repository");
+		
+		System.out.println("Neue Branch wurde erstellt");
 
 	}
 
